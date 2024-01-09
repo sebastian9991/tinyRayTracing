@@ -3,7 +3,7 @@
 #include <iostream>
 #include <fstream>
 #include <vector> // NOTICE: Use of cpp vector 
-#include "geometry.h"
+#include "geometry.h"// NOTICE: the class of vectors lives inside the geometry.h file
 
 void render() {
     const int width    = 1024;
