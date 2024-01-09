@@ -1,0 +1,3 @@
+/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/tinyraytracer.dir
+/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/edit_cache.dir
+/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/rebuild_cache.dir
