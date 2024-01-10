@@ -539,3 +539,615 @@ gmake[1]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracing
 
 Source file was:
 int main() { return 0; }
+Performing C++ SOURCE FILE Test flag_supported succeeded with the following output:
+Change Dir: /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_a1676/fast && gmake[1]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake  -f CMakeFiles/cmTC_a1676.dir/build.make CMakeFiles/cmTC_a1676.dir/build
+gmake[2]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_a1676.dir/src.cxx.o
+/usr/bin/c++ -Dflag_supported  -Wall -o CMakeFiles/cmTC_a1676.dir/src.cxx.o -c /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_a1676
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a1676.dir/link.txt --verbose=1
+/usr/bin/c++ -rdynamic CMakeFiles/cmTC_a1676.dir/src.cxx.o -o cmTC_a1676 
+gmake[2]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+gmake[1]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test flag_supported succeeded with the following output:
+Change Dir: /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_930dc/fast && gmake[1]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake  -f CMakeFiles/cmTC_930dc.dir/build.make CMakeFiles/cmTC_930dc.dir/build
+gmake[2]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_930dc.dir/src.cxx.o
+/usr/bin/c++ -Dflag_supported  -Wall    -Wextra -o CMakeFiles/cmTC_930dc.dir/src.cxx.o -c /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_930dc
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_930dc.dir/link.txt --verbose=1
+/usr/bin/c++  -Wall  -rdynamic CMakeFiles/cmTC_930dc.dir/src.cxx.o -o cmTC_930dc 
+gmake[2]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+gmake[1]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test flag_supported succeeded with the following output:
+Change Dir: /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_20298/fast && gmake[1]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake  -f CMakeFiles/cmTC_20298.dir/build.make CMakeFiles/cmTC_20298.dir/build
+gmake[2]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_20298.dir/src.cxx.o
+/usr/bin/c++ -Dflag_supported  -Wall -Wextra    -pedantic -o CMakeFiles/cmTC_20298.dir/src.cxx.o -c /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_20298
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_20298.dir/link.txt --verbose=1
+/usr/bin/c++  -Wall -Wextra  -rdynamic CMakeFiles/cmTC_20298.dir/src.cxx.o -o cmTC_20298 
+gmake[2]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+gmake[1]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test flag_supported succeeded with the following output:
+Change Dir: /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_29b8a/fast && gmake[1]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake  -f CMakeFiles/cmTC_29b8a.dir/build.make CMakeFiles/cmTC_29b8a.dir/build
+gmake[2]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_29b8a.dir/src.cxx.o
+/usr/bin/c++ -Dflag_supported  -Wall -Wextra -pedantic    -std=c++11 -o CMakeFiles/cmTC_29b8a.dir/src.cxx.o -c /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_29b8a
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_29b8a.dir/link.txt --verbose=1
+/usr/bin/c++  -Wall -Wextra -pedantic  -rdynamic CMakeFiles/cmTC_29b8a.dir/src.cxx.o -o cmTC_29b8a 
+gmake[2]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+gmake[1]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test flag_supported succeeded with the following output:
+Change Dir: /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_0027b/fast && gmake[1]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake  -f CMakeFiles/cmTC_0027b.dir/build.make CMakeFiles/cmTC_0027b.dir/build
+gmake[2]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_0027b.dir/src.cxx.o
+/usr/bin/c++ -Dflag_supported  -Wall -Wextra -pedantic -std=c++11    -O3 -o CMakeFiles/cmTC_0027b.dir/src.cxx.o -c /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_0027b
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_0027b.dir/link.txt --verbose=1
+/usr/bin/c++  -Wall -Wextra -pedantic -std=c++11  -rdynamic CMakeFiles/cmTC_0027b.dir/src.cxx.o -o cmTC_0027b 
+gmake[2]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+gmake[1]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test flag_supported succeeded with the following output:
+Change Dir: /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_8ba36/fast && gmake[1]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake  -f CMakeFiles/cmTC_8ba36.dir/build.make CMakeFiles/cmTC_8ba36.dir/build
+gmake[2]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_8ba36.dir/src.cxx.o
+/usr/bin/c++ -Dflag_supported  -Wall -Wextra -pedantic -std=c++11 -O3    -fopenmp -o CMakeFiles/cmTC_8ba36.dir/src.cxx.o -c /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_8ba36
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8ba36.dir/link.txt --verbose=1
+/usr/bin/c++  -Wall -Wextra -pedantic -std=c++11 -O3  -rdynamic CMakeFiles/cmTC_8ba36.dir/src.cxx.o -o cmTC_8ba36 
+gmake[2]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+gmake[1]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test flag_supported succeeded with the following output:
+Change Dir: /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_50125/fast && gmake[1]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake  -f CMakeFiles/cmTC_50125.dir/build.make CMakeFiles/cmTC_50125.dir/build
+gmake[2]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_50125.dir/src.cxx.o
+/usr/bin/c++ -Dflag_supported  -Wall -o CMakeFiles/cmTC_50125.dir/src.cxx.o -c /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_50125
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_50125.dir/link.txt --verbose=1
+/usr/bin/c++ -rdynamic CMakeFiles/cmTC_50125.dir/src.cxx.o -o cmTC_50125 
+gmake[2]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+gmake[1]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test flag_supported succeeded with the following output:
+Change Dir: /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_c276d/fast && gmake[1]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake  -f CMakeFiles/cmTC_c276d.dir/build.make CMakeFiles/cmTC_c276d.dir/build
+gmake[2]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_c276d.dir/src.cxx.o
+/usr/bin/c++ -Dflag_supported  -Wall    -Wextra -o CMakeFiles/cmTC_c276d.dir/src.cxx.o -c /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_c276d
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c276d.dir/link.txt --verbose=1
+/usr/bin/c++  -Wall  -rdynamic CMakeFiles/cmTC_c276d.dir/src.cxx.o -o cmTC_c276d 
+gmake[2]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+gmake[1]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test flag_supported succeeded with the following output:
+Change Dir: /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_57647/fast && gmake[1]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake  -f CMakeFiles/cmTC_57647.dir/build.make CMakeFiles/cmTC_57647.dir/build
+gmake[2]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_57647.dir/src.cxx.o
+/usr/bin/c++ -Dflag_supported  -Wall -Wextra    -pedantic -o CMakeFiles/cmTC_57647.dir/src.cxx.o -c /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_57647
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_57647.dir/link.txt --verbose=1
+/usr/bin/c++  -Wall -Wextra  -rdynamic CMakeFiles/cmTC_57647.dir/src.cxx.o -o cmTC_57647 
+gmake[2]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+gmake[1]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test flag_supported succeeded with the following output:
+Change Dir: /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_30d12/fast && gmake[1]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake  -f CMakeFiles/cmTC_30d12.dir/build.make CMakeFiles/cmTC_30d12.dir/build
+gmake[2]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_30d12.dir/src.cxx.o
+/usr/bin/c++ -Dflag_supported  -Wall -Wextra -pedantic    -std=c++11 -o CMakeFiles/cmTC_30d12.dir/src.cxx.o -c /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_30d12
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_30d12.dir/link.txt --verbose=1
+/usr/bin/c++  -Wall -Wextra -pedantic  -rdynamic CMakeFiles/cmTC_30d12.dir/src.cxx.o -o cmTC_30d12 
+gmake[2]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+gmake[1]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test flag_supported succeeded with the following output:
+Change Dir: /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_1c3a6/fast && gmake[1]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake  -f CMakeFiles/cmTC_1c3a6.dir/build.make CMakeFiles/cmTC_1c3a6.dir/build
+gmake[2]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_1c3a6.dir/src.cxx.o
+/usr/bin/c++ -Dflag_supported  -Wall -Wextra -pedantic -std=c++11    -O3 -o CMakeFiles/cmTC_1c3a6.dir/src.cxx.o -c /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_1c3a6
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_1c3a6.dir/link.txt --verbose=1
+/usr/bin/c++  -Wall -Wextra -pedantic -std=c++11  -rdynamic CMakeFiles/cmTC_1c3a6.dir/src.cxx.o -o cmTC_1c3a6 
+gmake[2]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+gmake[1]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test flag_supported succeeded with the following output:
+Change Dir: /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_97061/fast && gmake[1]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake  -f CMakeFiles/cmTC_97061.dir/build.make CMakeFiles/cmTC_97061.dir/build
+gmake[2]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_97061.dir/src.cxx.o
+/usr/bin/c++ -Dflag_supported  -Wall -Wextra -pedantic -std=c++11 -O3    -fopenmp -o CMakeFiles/cmTC_97061.dir/src.cxx.o -c /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_97061
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_97061.dir/link.txt --verbose=1
+/usr/bin/c++  -Wall -Wextra -pedantic -std=c++11 -O3  -rdynamic CMakeFiles/cmTC_97061.dir/src.cxx.o -o cmTC_97061 
+gmake[2]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+gmake[1]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test flag_supported succeeded with the following output:
+Change Dir: /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_fc04e/fast && gmake[1]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake  -f CMakeFiles/cmTC_fc04e.dir/build.make CMakeFiles/cmTC_fc04e.dir/build
+gmake[2]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_fc04e.dir/src.cxx.o
+/usr/bin/c++ -Dflag_supported  -Wall -o CMakeFiles/cmTC_fc04e.dir/src.cxx.o -c /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_fc04e
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_fc04e.dir/link.txt --verbose=1
+/usr/bin/c++ -rdynamic CMakeFiles/cmTC_fc04e.dir/src.cxx.o -o cmTC_fc04e 
+gmake[2]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+gmake[1]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test flag_supported succeeded with the following output:
+Change Dir: /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_c2ac9/fast && gmake[1]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake  -f CMakeFiles/cmTC_c2ac9.dir/build.make CMakeFiles/cmTC_c2ac9.dir/build
+gmake[2]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_c2ac9.dir/src.cxx.o
+/usr/bin/c++ -Dflag_supported  -Wall    -Wextra -o CMakeFiles/cmTC_c2ac9.dir/src.cxx.o -c /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_c2ac9
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c2ac9.dir/link.txt --verbose=1
+/usr/bin/c++  -Wall  -rdynamic CMakeFiles/cmTC_c2ac9.dir/src.cxx.o -o cmTC_c2ac9 
+gmake[2]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+gmake[1]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test flag_supported succeeded with the following output:
+Change Dir: /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_f3d6b/fast && gmake[1]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake  -f CMakeFiles/cmTC_f3d6b.dir/build.make CMakeFiles/cmTC_f3d6b.dir/build
+gmake[2]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_f3d6b.dir/src.cxx.o
+/usr/bin/c++ -Dflag_supported  -Wall -Wextra    -pedantic -o CMakeFiles/cmTC_f3d6b.dir/src.cxx.o -c /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_f3d6b
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f3d6b.dir/link.txt --verbose=1
+/usr/bin/c++  -Wall -Wextra  -rdynamic CMakeFiles/cmTC_f3d6b.dir/src.cxx.o -o cmTC_f3d6b 
+gmake[2]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+gmake[1]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test flag_supported succeeded with the following output:
+Change Dir: /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_4245e/fast && gmake[1]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake  -f CMakeFiles/cmTC_4245e.dir/build.make CMakeFiles/cmTC_4245e.dir/build
+gmake[2]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_4245e.dir/src.cxx.o
+/usr/bin/c++ -Dflag_supported  -Wall -Wextra -pedantic    -std=c++11 -o CMakeFiles/cmTC_4245e.dir/src.cxx.o -c /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_4245e
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_4245e.dir/link.txt --verbose=1
+/usr/bin/c++  -Wall -Wextra -pedantic  -rdynamic CMakeFiles/cmTC_4245e.dir/src.cxx.o -o cmTC_4245e 
+gmake[2]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+gmake[1]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test flag_supported succeeded with the following output:
+Change Dir: /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_e26cf/fast && gmake[1]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake  -f CMakeFiles/cmTC_e26cf.dir/build.make CMakeFiles/cmTC_e26cf.dir/build
+gmake[2]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_e26cf.dir/src.cxx.o
+/usr/bin/c++ -Dflag_supported  -Wall -Wextra -pedantic -std=c++11    -O3 -o CMakeFiles/cmTC_e26cf.dir/src.cxx.o -c /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_e26cf
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e26cf.dir/link.txt --verbose=1
+/usr/bin/c++  -Wall -Wextra -pedantic -std=c++11  -rdynamic CMakeFiles/cmTC_e26cf.dir/src.cxx.o -o cmTC_e26cf 
+gmake[2]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+gmake[1]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test flag_supported succeeded with the following output:
+Change Dir: /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_7866e/fast && gmake[1]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake  -f CMakeFiles/cmTC_7866e.dir/build.make CMakeFiles/cmTC_7866e.dir/build
+gmake[2]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_7866e.dir/src.cxx.o
+/usr/bin/c++ -Dflag_supported  -Wall -Wextra -pedantic -std=c++11 -O3    -fopenmp -o CMakeFiles/cmTC_7866e.dir/src.cxx.o -c /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_7866e
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7866e.dir/link.txt --verbose=1
+/usr/bin/c++  -Wall -Wextra -pedantic -std=c++11 -O3  -rdynamic CMakeFiles/cmTC_7866e.dir/src.cxx.o -o cmTC_7866e 
+gmake[2]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+gmake[1]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test flag_supported succeeded with the following output:
+Change Dir: /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_2a530/fast && gmake[1]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake  -f CMakeFiles/cmTC_2a530.dir/build.make CMakeFiles/cmTC_2a530.dir/build
+gmake[2]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_2a530.dir/src.cxx.o
+/usr/bin/c++ -Dflag_supported  -Wall -o CMakeFiles/cmTC_2a530.dir/src.cxx.o -c /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_2a530
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2a530.dir/link.txt --verbose=1
+/usr/bin/c++ -rdynamic CMakeFiles/cmTC_2a530.dir/src.cxx.o -o cmTC_2a530 
+gmake[2]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+gmake[1]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test flag_supported succeeded with the following output:
+Change Dir: /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_93528/fast && gmake[1]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake  -f CMakeFiles/cmTC_93528.dir/build.make CMakeFiles/cmTC_93528.dir/build
+gmake[2]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_93528.dir/src.cxx.o
+/usr/bin/c++ -Dflag_supported  -Wall    -Wextra -o CMakeFiles/cmTC_93528.dir/src.cxx.o -c /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_93528
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_93528.dir/link.txt --verbose=1
+/usr/bin/c++  -Wall  -rdynamic CMakeFiles/cmTC_93528.dir/src.cxx.o -o cmTC_93528 
+gmake[2]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+gmake[1]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test flag_supported succeeded with the following output:
+Change Dir: /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_a02af/fast && gmake[1]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake  -f CMakeFiles/cmTC_a02af.dir/build.make CMakeFiles/cmTC_a02af.dir/build
+gmake[2]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_a02af.dir/src.cxx.o
+/usr/bin/c++ -Dflag_supported  -Wall -Wextra    -pedantic -o CMakeFiles/cmTC_a02af.dir/src.cxx.o -c /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_a02af
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a02af.dir/link.txt --verbose=1
+/usr/bin/c++  -Wall -Wextra  -rdynamic CMakeFiles/cmTC_a02af.dir/src.cxx.o -o cmTC_a02af 
+gmake[2]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+gmake[1]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test flag_supported succeeded with the following output:
+Change Dir: /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_13ca6/fast && gmake[1]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake  -f CMakeFiles/cmTC_13ca6.dir/build.make CMakeFiles/cmTC_13ca6.dir/build
+gmake[2]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_13ca6.dir/src.cxx.o
+/usr/bin/c++ -Dflag_supported  -Wall -Wextra -pedantic    -std=c++11 -o CMakeFiles/cmTC_13ca6.dir/src.cxx.o -c /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_13ca6
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_13ca6.dir/link.txt --verbose=1
+/usr/bin/c++  -Wall -Wextra -pedantic  -rdynamic CMakeFiles/cmTC_13ca6.dir/src.cxx.o -o cmTC_13ca6 
+gmake[2]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+gmake[1]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test flag_supported succeeded with the following output:
+Change Dir: /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_d4ad8/fast && gmake[1]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake  -f CMakeFiles/cmTC_d4ad8.dir/build.make CMakeFiles/cmTC_d4ad8.dir/build
+gmake[2]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_d4ad8.dir/src.cxx.o
+/usr/bin/c++ -Dflag_supported  -Wall -Wextra -pedantic -std=c++11    -O3 -o CMakeFiles/cmTC_d4ad8.dir/src.cxx.o -c /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_d4ad8
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d4ad8.dir/link.txt --verbose=1
+/usr/bin/c++  -Wall -Wextra -pedantic -std=c++11  -rdynamic CMakeFiles/cmTC_d4ad8.dir/src.cxx.o -o cmTC_d4ad8 
+gmake[2]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+gmake[1]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test flag_supported succeeded with the following output:
+Change Dir: /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_90905/fast && gmake[1]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake  -f CMakeFiles/cmTC_90905.dir/build.make CMakeFiles/cmTC_90905.dir/build
+gmake[2]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_90905.dir/src.cxx.o
+/usr/bin/c++ -Dflag_supported  -Wall -Wextra -pedantic -std=c++11 -O3    -fopenmp -o CMakeFiles/cmTC_90905.dir/src.cxx.o -c /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_90905
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_90905.dir/link.txt --verbose=1
+/usr/bin/c++  -Wall -Wextra -pedantic -std=c++11 -O3  -rdynamic CMakeFiles/cmTC_90905.dir/src.cxx.o -o cmTC_90905 
+gmake[2]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+gmake[1]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test flag_supported succeeded with the following output:
+Change Dir: /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_b7e6a/fast && gmake[1]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake  -f CMakeFiles/cmTC_b7e6a.dir/build.make CMakeFiles/cmTC_b7e6a.dir/build
+gmake[2]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_b7e6a.dir/src.cxx.o
+/usr/bin/c++ -Dflag_supported  -Wall -o CMakeFiles/cmTC_b7e6a.dir/src.cxx.o -c /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_b7e6a
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b7e6a.dir/link.txt --verbose=1
+/usr/bin/c++ -rdynamic CMakeFiles/cmTC_b7e6a.dir/src.cxx.o -o cmTC_b7e6a 
+gmake[2]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+gmake[1]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test flag_supported succeeded with the following output:
+Change Dir: /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_8b7dc/fast && gmake[1]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake  -f CMakeFiles/cmTC_8b7dc.dir/build.make CMakeFiles/cmTC_8b7dc.dir/build
+gmake[2]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_8b7dc.dir/src.cxx.o
+/usr/bin/c++ -Dflag_supported  -Wall    -Wextra -o CMakeFiles/cmTC_8b7dc.dir/src.cxx.o -c /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_8b7dc
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8b7dc.dir/link.txt --verbose=1
+/usr/bin/c++  -Wall  -rdynamic CMakeFiles/cmTC_8b7dc.dir/src.cxx.o -o cmTC_8b7dc 
+gmake[2]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+gmake[1]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test flag_supported succeeded with the following output:
+Change Dir: /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_cbcec/fast && gmake[1]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake  -f CMakeFiles/cmTC_cbcec.dir/build.make CMakeFiles/cmTC_cbcec.dir/build
+gmake[2]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_cbcec.dir/src.cxx.o
+/usr/bin/c++ -Dflag_supported  -Wall -Wextra    -pedantic -o CMakeFiles/cmTC_cbcec.dir/src.cxx.o -c /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_cbcec
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_cbcec.dir/link.txt --verbose=1
+/usr/bin/c++  -Wall -Wextra  -rdynamic CMakeFiles/cmTC_cbcec.dir/src.cxx.o -o cmTC_cbcec 
+gmake[2]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+gmake[1]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test flag_supported succeeded with the following output:
+Change Dir: /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_6d926/fast && gmake[1]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake  -f CMakeFiles/cmTC_6d926.dir/build.make CMakeFiles/cmTC_6d926.dir/build
+gmake[2]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_6d926.dir/src.cxx.o
+/usr/bin/c++ -Dflag_supported  -Wall -Wextra -pedantic    -std=c++11 -o CMakeFiles/cmTC_6d926.dir/src.cxx.o -c /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_6d926
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_6d926.dir/link.txt --verbose=1
+/usr/bin/c++  -Wall -Wextra -pedantic  -rdynamic CMakeFiles/cmTC_6d926.dir/src.cxx.o -o cmTC_6d926 
+gmake[2]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+gmake[1]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test flag_supported succeeded with the following output:
+Change Dir: /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_f8081/fast && gmake[1]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake  -f CMakeFiles/cmTC_f8081.dir/build.make CMakeFiles/cmTC_f8081.dir/build
+gmake[2]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_f8081.dir/src.cxx.o
+/usr/bin/c++ -Dflag_supported  -Wall -Wextra -pedantic -std=c++11    -O3 -o CMakeFiles/cmTC_f8081.dir/src.cxx.o -c /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_f8081
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f8081.dir/link.txt --verbose=1
+/usr/bin/c++  -Wall -Wextra -pedantic -std=c++11  -rdynamic CMakeFiles/cmTC_f8081.dir/src.cxx.o -o cmTC_f8081 
+gmake[2]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+gmake[1]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test flag_supported succeeded with the following output:
+Change Dir: /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_fc350/fast && gmake[1]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake  -f CMakeFiles/cmTC_fc350.dir/build.make CMakeFiles/cmTC_fc350.dir/build
+gmake[2]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_fc350.dir/src.cxx.o
+/usr/bin/c++ -Dflag_supported  -Wall -Wextra -pedantic -std=c++11 -O3    -fopenmp -o CMakeFiles/cmTC_fc350.dir/src.cxx.o -c /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_fc350
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_fc350.dir/link.txt --verbose=1
+/usr/bin/c++  -Wall -Wextra -pedantic -std=c++11 -O3  -rdynamic CMakeFiles/cmTC_fc350.dir/src.cxx.o -o cmTC_fc350 
+gmake[2]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+gmake[1]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test flag_supported succeeded with the following output:
+Change Dir: /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_5090b/fast && gmake[1]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake  -f CMakeFiles/cmTC_5090b.dir/build.make CMakeFiles/cmTC_5090b.dir/build
+gmake[2]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_5090b.dir/src.cxx.o
+/usr/bin/c++ -Dflag_supported  -Wall -o CMakeFiles/cmTC_5090b.dir/src.cxx.o -c /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_5090b
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_5090b.dir/link.txt --verbose=1
+/usr/bin/c++ -rdynamic CMakeFiles/cmTC_5090b.dir/src.cxx.o -o cmTC_5090b 
+gmake[2]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+gmake[1]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test flag_supported succeeded with the following output:
+Change Dir: /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_b5e20/fast && gmake[1]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake  -f CMakeFiles/cmTC_b5e20.dir/build.make CMakeFiles/cmTC_b5e20.dir/build
+gmake[2]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_b5e20.dir/src.cxx.o
+/usr/bin/c++ -Dflag_supported  -Wall    -Wextra -o CMakeFiles/cmTC_b5e20.dir/src.cxx.o -c /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_b5e20
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b5e20.dir/link.txt --verbose=1
+/usr/bin/c++  -Wall  -rdynamic CMakeFiles/cmTC_b5e20.dir/src.cxx.o -o cmTC_b5e20 
+gmake[2]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+gmake[1]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test flag_supported succeeded with the following output:
+Change Dir: /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_024af/fast && gmake[1]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake  -f CMakeFiles/cmTC_024af.dir/build.make CMakeFiles/cmTC_024af.dir/build
+gmake[2]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_024af.dir/src.cxx.o
+/usr/bin/c++ -Dflag_supported  -Wall -Wextra    -pedantic -o CMakeFiles/cmTC_024af.dir/src.cxx.o -c /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_024af
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_024af.dir/link.txt --verbose=1
+/usr/bin/c++  -Wall -Wextra  -rdynamic CMakeFiles/cmTC_024af.dir/src.cxx.o -o cmTC_024af 
+gmake[2]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+gmake[1]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test flag_supported succeeded with the following output:
+Change Dir: /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_05283/fast && gmake[1]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake  -f CMakeFiles/cmTC_05283.dir/build.make CMakeFiles/cmTC_05283.dir/build
+gmake[2]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_05283.dir/src.cxx.o
+/usr/bin/c++ -Dflag_supported  -Wall -Wextra -pedantic    -std=c++11 -o CMakeFiles/cmTC_05283.dir/src.cxx.o -c /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_05283
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_05283.dir/link.txt --verbose=1
+/usr/bin/c++  -Wall -Wextra -pedantic  -rdynamic CMakeFiles/cmTC_05283.dir/src.cxx.o -o cmTC_05283 
+gmake[2]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+gmake[1]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test flag_supported succeeded with the following output:
+Change Dir: /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_1ddc4/fast && gmake[1]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake  -f CMakeFiles/cmTC_1ddc4.dir/build.make CMakeFiles/cmTC_1ddc4.dir/build
+gmake[2]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_1ddc4.dir/src.cxx.o
+/usr/bin/c++ -Dflag_supported  -Wall -Wextra -pedantic -std=c++11    -O3 -o CMakeFiles/cmTC_1ddc4.dir/src.cxx.o -c /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_1ddc4
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_1ddc4.dir/link.txt --verbose=1
+/usr/bin/c++  -Wall -Wextra -pedantic -std=c++11  -rdynamic CMakeFiles/cmTC_1ddc4.dir/src.cxx.o -o cmTC_1ddc4 
+gmake[2]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+gmake[1]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test flag_supported succeeded with the following output:
+Change Dir: /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_30965/fast && gmake[1]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake  -f CMakeFiles/cmTC_30965.dir/build.make CMakeFiles/cmTC_30965.dir/build
+gmake[2]: Entering directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_30965.dir/src.cxx.o
+/usr/bin/c++ -Dflag_supported  -Wall -Wextra -pedantic -std=c++11 -O3    -fopenmp -o CMakeFiles/cmTC_30965.dir/src.cxx.o -c /home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_30965
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_30965.dir/link.txt --verbose=1
+/usr/bin/c++  -Wall -Wextra -pedantic -std=c++11 -O3  -rdynamic CMakeFiles/cmTC_30965.dir/src.cxx.o -o cmTC_30965 
+gmake[2]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+gmake[1]: Leaving directory '/home/sebastiancsabry/Documents/Projects/rayTracingBasic/tinyraytracer/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0; }

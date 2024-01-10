@@ -1,6 +1,16 @@
 cmake_minimum_required (VERSION 2.8)
 project (tinyraytracer)
 
+#Find openCV Package 
+find_package(OpenCV REQUIRED)
+
+# Include OpenCV directories
+include_directories(${OpenCV_INCLUDE_DIRS})
+
+# Your executable target
+# add_executable(tinyraytracer tinyraytracer.cpp)
+
+
 include(CheckCXXCompilerFlag)
 
 function(enable_cxx_compiler_flag_if_supported flag)
@@ -24,4 +34,7 @@ enable_cxx_compiler_flag_if_supported("-fopenmp")
 file(GLOB SOURCES *.h *.cpp)
 
 add_executable(${PROJECT_NAME} ${SOURCES})
+
+# Link against OpenCV libraries
+target_link_libraries(${PROJECT_NAME} ${OpenCV_LIBS})
 
